@@ -19,6 +19,19 @@ DevOps, integrators, administrators, technical users.
 and usage instructions.
 
 
+Links
+-----
+
+AMS resources:
+*   https://github.com/ai-sprint-eu-project/ams-core-helm-chart
+*   https://github.com/ai-sprint-eu-project/ams-client
+*   https://github.com/ai-sprint-eu-project/ams-logging-helm-chart
+*   https://github.com/ai-sprint-eu-project/ams-log-forwarder-helm-chart
+*   https://github.com/ai-sprint-eu-project/ams-manager
+*   https://github.com/ai-sprint-eu-project/ams-influxdb-synchroniser
+*   https://github.com/ai-sprint-eu-project/ams-api
+
+
 Manual structure
 ----------------
 
